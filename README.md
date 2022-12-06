@@ -8,7 +8,7 @@ I will likely not finish these (as my previous attempts will show) but here are 
 | [Day 3](/src/day03/day03.py)  | ⭐⭐     |
 | [Day 4](/src/day04/day04.py)  | ⭐⭐     |
 | [Day 5](/src/day05/day05.py)  | ⭐⭐     |
-| [Day 6](/src/day06/day06.py)  |        |
+| [Day 6](/src/day06/day06.py)  | ⭐⭐     |
 | [Day 7](/src/day07/day07.py)  |        |
 | [Day 8](/src/day08/day08.py)  |        |
 | [Day 9](/src/day09/day09.py)  |        |
